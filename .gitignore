@@ -1,6 +1,7 @@
 /.settings/
 /target/
 /_JSP/
+/src/main/java/com/icook/_00_init
 /.classpath
 /.project
 # Compiled class file
